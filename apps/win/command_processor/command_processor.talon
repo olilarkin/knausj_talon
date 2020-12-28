@@ -5,7 +5,7 @@ and win.title: /Command Prompt/
 # comment or remove tags for command sets you don't want
 tag(): user.file_manager
 tag(): user.git
-tag(): user.kubectl
+# tag(): user.kubectl
 tag(): terminal
 
 run last: key(up enter)

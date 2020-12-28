@@ -6,10 +6,10 @@ mod = Module()
 apps = mod.apps
 
 # apple specific apps
-apps.datagrip = """
-os: mac
-and app.name: DataGrip
-"""
+# apps.datagrip = """
+# os: mac
+# and app.name: DataGrip
+# """
 
 apps.finder = """
 os: mac

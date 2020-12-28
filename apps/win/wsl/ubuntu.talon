@@ -4,7 +4,7 @@ and win.title: /Ubuntu/
 -
 tag(): user.file_manager
 tag(): user.git
-tag(): user.kubectl
+# tag(): user.kubectl
 tag(): terminal
 
 action(user.file_manager_refresh_title): skip()
